@@ -106,3 +106,7 @@ main .translateBtn {
   font-weight: bold;
   height: 50px;
 }
+main .translateBtn:hover {
+  background-color: #4285f4;
+  color: #fff;
+}
